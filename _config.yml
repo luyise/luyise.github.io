@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Louise"
   pronouns         : "she/her" 
   bio              : "Welcome to my website, I'm a PhD student, working on Homotopy Type Theory. This is a wonderful subject located at the crossroad of homotopy theory, logic and computer science. Beside sciences, I'm also fond of music"
