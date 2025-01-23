@@ -21,7 +21,7 @@ repository               : "luyise/luyise.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "louise_2.jpg"
+  avatar           : "louise_2.png"
   name             : "Louise"
   pronouns         : "she/her" 
   bio              : ""
