@@ -3,7 +3,7 @@ title: "Towards a type theory for (∞, ω)-categories"
 # collection: talks
 # type: "Talk"
 permalink: /talks/2025-04-15-CellTT.pdf
-venue: "Genova, HoTT-UF 2025"
+venue: "HoTT-UF 2025"
 date: 2025-04-15
 location: "Genova, Italy"
 ---
