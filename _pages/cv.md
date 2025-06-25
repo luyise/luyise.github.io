@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-you can find my cv here: 
-{% include {{CV-pdf}} %}
+you can find my cv here:
+{% include {{CV-pdf.html}} %}
 <hr />
 
 Research work
