@@ -7,6 +7,6 @@ date: 2024-10-24
 venue:
 slidesurl:
 paperurl:
-permalink: /talks/2024-10-24-PreTTy.pdf
+permalink: /publications/2024-10-24-PreTTy.pdf
 citation: 
 ---
