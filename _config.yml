@@ -76,16 +76,16 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
+  non-definitive:
+    title: 'Non-definitive Version'
   preprint:
-    title: 'Preprints'    
+    title: 'Preprints' 
   conferences:
     title: 'Conference Papers'
   published:
     title: 'Journal Article'
-  non-definitive:
-    title: 'Non-definitive Version'
+  books:
+    title: 'Books' 
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
