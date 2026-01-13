@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-you can [get my CV](https://luyise.github.io/assets/CV.pdf) here.
+you can [get my CV](/CV.pdf) here.
 
 Research work
 ======
