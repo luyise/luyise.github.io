@@ -9,7 +9,7 @@ redirect_from:
 {% include base_path %}
 
 Some music I like (and a suggested album):
-======
+
 ![Alcest](/images/Alcest_LVA.jpg)
 Alcest (Les Voyages de l'Âme)
 
