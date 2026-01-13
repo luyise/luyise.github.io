@@ -8,9 +8,37 @@ redirect_from:
 
 {% include base_path %}
 
-Research work
+Some music I like (and a suggested album):
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+![Alcest](/images/Alcest_LVA.jpg)
+Alcest (Les Voyages de l'Âme)
+
+![Agalloch](/images/Agalloch_AAG.jpg)
+Agalloch (Ashes Against the Grain)
+
+![Covet](/images/Covet_E.jpg)
+Covet (Effloresce)
+
+![DaVoile](/images/DaVoile_TAWB.jpg)
+Da Voile (The Air We Breath)
+
+![Ellende](/images/Ellende_T.jpg)
+Ellende (Triebe)
+
+![Gojira](/images/Gojira_ES.png)
+Gojira (l'Enfant Sauvage)
+
+![PinkFloyd](/images/PinkFloyd_TDB.jpg)
+Pink Floyd (The Division Bell)
+
+![PorcupineTree](/images/PorcupineTree_FOBP.jpg)
+Porcupine Tree (Fear of a Blank Planet)
+
+![Rush](/images/Rush_RTB.png)
+Rush (Roll the Bones)
+
+![Spiritbox](/images/Spiritbox_S.jpg)
+Spiritbox (Spiritbox)
+
+![StreetlightManifesto](/images/StreetlightManifesto_SIB.jpg)
+Streetlight Manifesto (Somewhere in the Between)

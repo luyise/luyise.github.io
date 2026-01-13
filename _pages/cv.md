@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+{% include cv-pdf.html %}
+
 Research work
 ======
   <ul>{% for post in site.publications reversed %}
