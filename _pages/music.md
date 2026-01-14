@@ -16,6 +16,9 @@ Alcest (Les Voyages de l'Âme)
 ![Agalloch](/images/Agalloch_AAG.jpg)
 Agalloch (Ashes Against the Grain)
 
+![AugustBurnsRed](/images/AugustBurnsRed_RR.jpg)
+August Burns Red (Rescue and Restore)
+
 ![Covet](/images/Covet_E.jpg)
 Covet (Effloresce)
 
@@ -30,6 +33,9 @@ Gojira (l'Enfant Sauvage)
 
 ![PinkFloyd](/images/PinkFloyd_TDB.jpg)
 Pink Floyd (The Division Bell)
+
+![Plini](/images/Plini_SN.jpg)
+Plini (Sweet Nothings)
 
 ![PorcupineTree](/images/PorcupineTree_FOBP.jpg)
 Porcupine Tree (Fear of a Blank Planet)
