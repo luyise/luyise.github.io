@@ -48,3 +48,6 @@ Spiritbox (Spiritbox)
 
 ![StreetlightManifesto](/images/StreetlightManifesto_SIB.jpg)
 Streetlight Manifesto (Somewhere in the Between)
+
+![SwallowTheSun](/images/SwallowTheSun_NM.jpg)
+Swallow the Sun (New Moon)
