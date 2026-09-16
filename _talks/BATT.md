@@ -2,7 +2,7 @@
 title: "A bunched approach to directed HoTT"
 # collection: talks
 # type: "Talk"
-permalink: /talks/2026-09-15-Chocola.pdf
+permalink: /talks/2026-09-16-Chocola.pdf
 venue: "Chocola"
 date: 2026-09-17
 location: "ENS Lyon, France"
